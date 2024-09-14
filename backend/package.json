@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Express JS Backend for buzz!",
+  "main": "index.js",
+  "author": "Afsal Majeed",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
