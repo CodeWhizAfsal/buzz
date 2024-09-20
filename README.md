@@ -1,5 +1,10 @@
 # Buzz Chat
 
+Afsal Majeed 
+MS22BTECH11003
+IIT Hyderabad
+Material Science and Metallurgical Engineering
+
 Buzz Chat is a realtime chat application build with React, Express, Socket.io and MongoDB.
 
 ![Login Page](assets/1.png)
